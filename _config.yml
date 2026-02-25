@@ -21,66 +21,21 @@ repository               : "jtbentomology/jtbentomology.github.io"
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
-  # Biographic information
-  avatar           : "/images/IMG_9450.png"
-  name             : "James T. Brown, PhD"
-  pronouns         : "he/him"
-  bio              : "Postdoctoral Research Scholar in entomology specializing in biological control, integrated pest management (IPM), and invasive insect ecology. Research focuses on vineyard and specialty crop systems, classical biological control of Drosophila suzukii, vine mealybug management, insecticide evaluation, and agroecosystem sustainability across conventional, organic, and natural systems."
-  location         : "UCANR Kearney Research & Extension Center, Parlier, CA"
-  employer         : "UC Berkeley"
-  uri              :
-  email            : "jamestbrown5@berkeley.edu"
-
-  # Academic websites
-  academia         : # URL
-  arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
-  inspire-hep      : # URL
-  impactstory      : # URL
-  orcid            : "https://orcid.org/0000-0003-3195-6761"
-  semantic         : # URL
-  ssrn             : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  researchgate     : # URL
-  scopus           : # URL
-  zotero           : # URL
-
-
-  # Repositories and software development
-  bitbucket        : # Username - Update with your username on the site
-  codepen          : # Username
-  dribbble         : # Username
-  github           : "jamesterrancebrown"
-  kaggle           : # Username  
-  stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
-
-  # Social media
-  artstation       : # Username
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
-  facebook         : # Username
-  flickr           : # Username
-  foursquare       : # Username
-  goodreads        : # Username
-  google_plus      : # Username
-  keybase          : # Username
-  instagram        : # Username
-  lastfm           : # Username
-  linkedin         : # james-brown-565b8613
-  mastodon         : # URL
-  medium           : # URL
-  pinterest        : # Username
-  soundcloud       : # Username
-  steam            : # Username
-  telegram         : # URL
-  tumblr           : # Username
-  twitter          : # Username for X / Twitter
-  vine             : # Username
-  weibo            : # Username
-  wikipedia        : # Username
-  xing             : # Username
-  youtube          : # Username
-  zhihu            : # Username
-
+  avatar: "/images/IMG_9450.png"
+  name: "James T. Brown, PhD"
+  pronouns: "he/him"
+  bio: "Postdoctoral Research Scholar in entomology specializing in biological control, integrated pest management (IPM), and invasive insect ecology. Research focuses on vineyard and specialty crop systems, classical biological control of Drosophila suzukii, vine mealybug management, insecticide evaluation, and agroecosystem sustainability across conventional, organic, and natural systems."
+  location: "UCANR Kearney Research & Extension Center, Parlier, CA"
+  employer: "UC Berkeley"
+  email: "jamestbrown5@berkeley.edu"
+  uri: ""
+  academia: ""
+  arxiv: ""
+  googlescholar: "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  orcid: "https://orcid.org/0000-0003-3195-6761"
+  github: "jamesterrancebrown"
+  linkedin: "james-brown-565b8613"
+  
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
   books:
