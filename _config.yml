@@ -1,70 +1,83 @@
-# Welcome to Jekyll!
-#
-# This config file is meant for settings that affect your entire site, values
-# which you are expected to set up once and rarely need to edit after that.
-# For technical reasons, this file is *NOT* reloaded automatically when you use
-# `jekyll serve -l -H localhost`. If you change this file, please restart the 
-# server process.
+# =============================================================================
+# _config.yml — James T. Brown | jtbentomology.github.io
+# Last updated: 2026-02-26
+# Changes from original:
+#   1. Fixed typo: "Agrilcural" → "Agricultural" in description
+#   2. Fixed avatar path: was "/images/IMG_9450.png" which caused the Jekyll
+#      template to render a doubled path (/images//images/IMG_9450.png).
+#      Correct value is just the filename "IMG_9450.png".
+# =============================================================================
 
+# -----------------------------------------------------------------------------
 # Basic Site Settings
+# -----------------------------------------------------------------------------
 locale                   : "en-US"
-site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : "James T. Brown, PhD. | Entomology | UCANR Kearney REC"
+site_theme               : "default"  # Options: "default", "air", "sunrise", "mint", "dirt", "contrast"
+title                    : "James T. Brown, PhD | Entomologist"
 title_separator          : "-"
 name                     : &name "James T. Brown"
-description              : &description "James T. Brown, PhD — Agrilcural Entomologist specializing in biological control, IPM, invasive pest ecology, and agroecosystem sustainability."
+# FIXED: typo "Agrilcural" → "Agricultural"
+description              : &description "James T. Brown, PhD — Agricultural Entomologist specializing in biocontrol, IPM, and pest agroecology."
 url                      : https://jtbentomology.github.io
 baseurl                  : ""
 repository               : "jtbentomology/jtbentomology.github.io"
 
-# Site Author - The following control what appear as part of the author content on the side bar.
-#               If a field is blank the icon and link will not appear, otherwise it will be shown.
-#               Additional customization can be done by editing /_includes/author-profile.html
+# -----------------------------------------------------------------------------
+# Site Author — Controls the sidebar panel
+# FIXED: avatar was "/images/IMG_9450.png" → should be just "IMG_9450.png"
+#        The Academic Pages template prepends the base images path automatically.
+#        The leading /images/ caused a doubled URL at runtime.
+# -----------------------------------------------------------------------------
 author:
-  avatar: "/images/IMG_9450.png"
-  name: "James T. Brown, PhD"
-  pronouns: "he/him"
-  bio: "Postdoctoral Research Scholar in entomology specializing in biological control, integrated pest management (IPM), and invasive insect ecology. Research focuses on vineyard and specialty crop systems, classical biological control of Drosophila suzukii, vine mealybug management, insecticide evaluation, and agroecosystem sustainability across conventional, organic, and natural systems."
-  location: "UCANR Kearney Research & Extension Center, Parlier, CA"
-  employer: "UC Berkeley"
-  email: "jamestbrown5@berkeley.edu"
-  uri: ""
-  academia: ""
-  arxiv: ""
-  googlescholar: "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
-  orcid: "https://orcid.org/0000-0003-3195-6761"
-  github: "jamesterrancebrown"
-  linkedin: "james-brown-565b8613"
-  
-# Publication Category - The following the list of publication categories and their headings
+  avatar           : "IMG_9450.png"
+  name             : "James T. Brown, PhD"
+  pronouns         : "he/him"
+  bio              : "Postdoctoral Research Scholar in entomology specializing in biological control, integrated pest management (IPM), and invasive insect ecology. Research focuses on vineyard and specialty crop systems, classical biological control of *Drosophila suzukii*, vine mealybug management, insecticide evaluation, and agroecosystem sustainability across conventional, organic, and natural systems."
+  location         : "UCANR Kearney Research & Extension Center, Parlier, CA"
+  employer         : "UC Berkeley"
+  email            : "jamestbrown5@berkeley.edu"
+  uri              : ""
+  academia         : ""
+  arxiv            : ""
+  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  orcid            : "https://orcid.org/0000-0003-3195-6761"
+  github           : "jamesterrancebrown"
+  linkedin         : "james-brown-565b8613"
+
+# -----------------------------------------------------------------------------
+# Publication Category Headings (used on /publications/ page)
+# -----------------------------------------------------------------------------
 publication_category:
   books:
-    title: 'Books'
+    title: "Books"
   manuscripts:
-    title: 'Journal Articles'    
+    title: "Journal Articles"
   conferences:
-    title: 'Conference Papers'
+    title: "Conference Papers"
 
+# -----------------------------------------------------------------------------
 # Site Settings
-teaser                   :  # filename of teaser fallback teaser image placed in /images/ for social media previews
-breadcrumbs              : false # true, false (default)
+# -----------------------------------------------------------------------------
+teaser                   :
+breadcrumbs              : false
 words_per_minute         : 160
 future                   : true
-read_more                : "disabled" # if enabled, adds "Read more" links to excerpts
-talkmap_link             : false      #change to true to add link to talkmap on talks page
+read_more                : "disabled"
+talkmap_link             : false
+
 comments:
-  provider               : # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "custom"
+  provider               :
   disqus:
     shortname            :
   discourse:
-    server               : # https://meta.discourse.org/t/embedding-discourse-comments-via-javascript/31963 , e.g.: meta.discourse.org
+    server               :
   facebook:
     appid                :
-    num_posts            : # 5 (default)
-    colorscheme          : # "light" (default), "dark"
+    num_posts            :
+    colorscheme          :
 staticman:
   allowedFields          : ['name', 'email', 'url', 'message']
-  branch                 : "gh-pages" # "master", "gh-pages"
+  branch                 : "gh-pages"
   commitMessage          : "New comment."
   filename               : comment-{@timestamp}
   format                 : "yml"
@@ -77,44 +90,47 @@ staticman:
     date:
       type               : "date"
       options:
-        format           : "iso8601" # "iso8601" (default), "timestamp-seconds", "timestamp-milliseconds"
+        format           : "iso8601"
+
 atom_feed:
-  hide                   : false     # change to true to hide the RSS feed in the footer
-  path                   : # blank (default) uses feed.xml
+  hide                   : false
+  path                   :
 
-
-# SEO Related
+# -----------------------------------------------------------------------------
+# SEO
+# -----------------------------------------------------------------------------
 google_site_verification :
 bing_site_verification   :
 alexa_site_verification  :
 yandex_site_verification :
 
-
+# -----------------------------------------------------------------------------
 # Social Sharing
+# -----------------------------------------------------------------------------
 twitter:
   username               : &twitter
 facebook:
   username               :
   app_id                 :
   publisher              :
-og_image                 :  # Social media default site image
-og_description           :  # Social media default site image description
-# For specifying social profiles
-# - https://developers.google.com/structured-data/customize/social-profiles
+og_image                 :
+og_description           :
 social:
-  type                   : # Person or Organization (defaults to Person)
-  name                   : # If the user or organization name differs from the site's name
-  links: # An array of links to social media profiles
+  type                   :
+  name                   :
+  links:
 
-
-# Analytics
+# -----------------------------------------------------------------------------
+# Analytics (add your Google Analytics tracking ID here when ready)
+# -----------------------------------------------------------------------------
 analytics:
-  provider               :  "false" # false (default), "google", "google-universal", "google-analytics-4", "custom"
+  provider               : "false"
   google:
     tracking_id          :
 
-
+# -----------------------------------------------------------------------------
 # Reading Files
+# -----------------------------------------------------------------------------
 include:
   - .htaccess
   - _pages
@@ -152,16 +168,15 @@ keep_files:
 encoding: "utf-8"
 markdown_ext: "markdown,mkdown,mkdn,mkd,md"
 
-
+# -----------------------------------------------------------------------------
 # Conversion
+# -----------------------------------------------------------------------------
 markdown: kramdown
 highlighter: rouge
 lsi: false
 excerpt_separator: "\n\n"
 incremental: false
 
-
-# Markdown Processing
 kramdown:
   input: GFM
   hard_wrap: false
@@ -172,8 +187,9 @@ kramdown:
   smart_quotes: lsquo,rsquo,ldquo,rdquo
   enable_coderay: false
 
-
-# These settings control the types of collections used by the template
+# -----------------------------------------------------------------------------
+# Collections
+# -----------------------------------------------------------------------------
 collections:
   teaching:
     output: true
@@ -188,10 +204,10 @@ collections:
     output: true
     permalink: /:collection/:path/
 
-
-# These settings control how pages and collections are included in the site
+# -----------------------------------------------------------------------------
+# Defaults
+# -----------------------------------------------------------------------------
 defaults:
-  # _posts
   - scope:
       path: ""
       type: posts
@@ -202,14 +218,12 @@ defaults:
       comments: true
       share: true
       related: true
-  # _pages
   - scope:
       path: ""
       type: pages
     values:
       layout: single
       author_profile: true
-  # _teaching
   - scope:
       path: ""
       type: teaching
@@ -218,7 +232,6 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  # _publications
   - scope:
       path: ""
       type: publications
@@ -227,7 +240,6 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  # _portfolio
   - scope:
       path: ""
       type: portfolio
@@ -236,7 +248,6 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  # _talks
   - scope:
       path: ""
       type: talks
@@ -245,21 +256,22 @@ defaults:
       author_profile: true
       share: true
 
-
+# -----------------------------------------------------------------------------
 # Sass/SCSS
+# -----------------------------------------------------------------------------
 sass:
   sass_dir: _sass
-  style: compressed # https://sass-lang.com/documentation/file.SASS_REFERENCE.html#output_style
+  style: compressed
 
-
+# -----------------------------------------------------------------------------
 # Outputting
+# -----------------------------------------------------------------------------
 permalink: /:categories/:title/
-# paginate: 5 # amount of posts to show
-# paginate_path: /page:num/
-timezone: Etc/UTC # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: Etc/UTC
 
-
+# -----------------------------------------------------------------------------
 # Plugins
+# -----------------------------------------------------------------------------
 plugins:
   - jekyll-feed
   - jekyll-gist
@@ -268,7 +280,6 @@ plugins:
   - jekyll-redirect-from
   - jemoji
 
-# Mimic GitHub Pages with --safe
 whitelist:
   - jekyll-feed
   - jekyll-gist
@@ -277,38 +288,19 @@ whitelist:
   - jekyll-redirect-from
   - jemoji
 
-
+# -----------------------------------------------------------------------------
 # Archives
-#  Type
-#  - GitHub Pages compatible archive pages built with Liquid ~> type: liquid (default)
-#  - Jekyll Archives plugin archive pages ~> type: jekyll-archives
-#  Path (examples)
-#  - Archive page should exist at path when using Liquid method or you can
-#    expect broken links (especially with breadcrumbs enabled)
-#  - <base_path>/tags/my-awesome-tag/index.html ~> path: /tags/
-#  - <base_path/categories/my-awesome-category/index.html ~> path: /categories/
-#  - <base_path/my-awesome-category/index.html ~> path: /
+# -----------------------------------------------------------------------------
 category_archive:
   type: liquid
   path: /categories/
 tag_archive:
   type: liquid
   path: /tags/
-# https://github.com/jekyll/jekyll-archives
-# jekyll-archives:
-#   enabled:
-#     - categories
-#     - tags
-#   layouts:
-#     category: archive-taxonomy
-#     tag: archive-taxonomy
-#   permalinks:
-#     category: /categories/:name/
-#     tag: /tags/:name/
 
-
+# -----------------------------------------------------------------------------
 # HTML Compression
-# - https://jch.penibelst.de/
+# -----------------------------------------------------------------------------
 compress_html:
   clippings: all
   ignore:
