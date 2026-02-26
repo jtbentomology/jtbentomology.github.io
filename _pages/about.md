@@ -1,26 +1,15 @@
 ---
 # =============================================================================
-# _pages/about.md  —  Main landing page (maps to https://jtbentomology.github.io/)
+# _pages/about.md  —  About page at https://jtbentomology.github.io/about/
 #
-# IMPORTANT: This file must also be saved (or symlinked) as index.md in the
-# root of the repository so that the site root "/" resolves to this content.
-# The simplest approach is to keep this file at _pages/about.md AND have an
-# index.md at the repo root containing only the two lines:
-#
-#   ---
-#   redirect_to: /about/
-#   ---
-#
-# Alternatively, place this file directly at the repo root as index.md and
-# remove the permalink line below — both approaches work with Academic Pages.
+# This page lives at /about/. The site root (/) is handled separately by
+# index.md at the repository root, which redirects here. Do NOT add
+# permalink: / or redirect_from: /about/ to this file — that creates a loop.
 # =============================================================================
-permalink: /
+permalink: /about/
 title: "James T. Brown, PhD"
 excerpt: "Agricultural Entomologist | Postdoctoral Research Scholar | UC Berkeley / UCANR Kearney REC"
 author_profile: true
-redirect_from:
-  - /about/
-  - /about.html
 ---
 
 ## Research Overview
