@@ -6,7 +6,7 @@
 # index.md at the repository root, which redirects here. Do NOT add
 # permalink: / or redirect_from: /about/ to this file — that creates a loop.
 # =============================================================================
-permalink: /about.md
+permalink: /
 title: "James T. Brown, PhD"
 excerpt: "Agricultural Entomologist | Postdoctoral Research Scholar | UC Berkeley / UCANR Kearney REC"
 author_profile: true
