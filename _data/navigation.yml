@@ -16,8 +16,8 @@ main:
   - title: "Projects"
     url: /year-archive/
 
-  - title: "Lab"
-    url: /portfolio/
+  - title: "People" / 
+  url: /people/
 
   - title: "CV"
     url: /cv/
