@@ -42,7 +42,7 @@ I am driven by a commitment to scalable, biologically relevant pest management s
 
 I welcome inquiries from prospective collaborators, growers, extension professionals, and students interested in pest management, biological control, or agroecology.
 
-**Email:** [jamestbrown5@berkeley.edu](mailto:jamestbrown5@berkeley.edu)<br>  
+**Email:** [jamestbrown5@berkeley.edu](mailto:jamestbrown5@berkeley.edu)<br>
 **Location:** [UCANR Kearney Research & Extension Center, Parlier, CA 93648](https://share.google/xb5EL8FcWOM7OKR5T)<br>
 **Google Scholar:** [View publication record](https://scholar.google.com/citations?user=PS_CX0AAAAAJ)<br>
 **ORCID:** [0000-0003-3195-6761](https://orcid.org/0000-0003-3195-6761)<br>
