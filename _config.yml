@@ -121,9 +121,9 @@ social:
 # Analytics (add your Google Analytics tracking ID here when ready)
 # -----------------------------------------------------------------------------
 analytics:
-  provider               : "false"
+  provider               : "google"
   google:
-    tracking_id          :
+    tracking_id          : "G-ZYRVQD52X8"
 
 # -----------------------------------------------------------------------------
 # Reading Files
