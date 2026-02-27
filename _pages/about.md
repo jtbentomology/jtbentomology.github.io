@@ -14,19 +14,13 @@ author_profile: true
 
 ## Research Overview
 
-I am a Postdoctoral Research Scholar in agricultural entomology jointly affiliated with the **University of California, Berkeley** and the **USDA-ARS / UCANR Kearney Research and Extension Center** in Parlier, California. My research program integrates classical biological control, integrated pest management (IPM), and applied agroecology to address the challenges posed by economically significant invertebrate pests in specialty crop systems throughout California's Central Valley and broader production regions.
+I am a Postdoctoral Research Scholar in agricultural entomology jointly at the University of California-Berkeley, stationed at the Kearney Research and Extension Center in Parlier, California. My research integrates classical biological control, integrated pest management (IPM), and applied agroecology to address economically significant pests in a variety of crop systems from California’s Central Valley to the Southeast United States.
 
-My current work centers on two interconnected research priorities. The first concerns the classical biological control of **spotted-wing drosophila** (*Drosophila suzukii*; Diptera: Drosophilidae), an invasive vinegar fly that represents one of the most damaging pests of soft-skinned fruit globally. I am investigating the host-range, efficacy, and field establishment of the larval parasitoid *Ganaspis kimorum* as a candidate biocontrol agent, with the goal of contributing toward a durable, ecologically sound suppression strategy for this pest in California and the Pacific Coast region. The second priority involves developing and evaluating **insecticide management strategies for vine mealybug** (*Planococcus ficus*; Hemiptera: Pseudococcidae) in commercial wine grape production, with a particular emphasis on comparing foliar and drip-applied chemistries, application intervals, and novel active ingredients under Central Valley field conditions.
+My current program is organized around two complementary research priorities. The first focuses on the classical biological control of spotted-wing drosophila (*Drosophila suzukii*), one of the most destructive invasive pests of soft-skinned fruit worldwide. This work evaluates the host range, performance, and field establishment potential of the larval parasitoid *Ganaspis kimorum* as a  biocontrol agent, to develop durable, ecologically grounded suppression strategies for California and the Pacific Coast region.
 
-Broadly, my scholarship is animated by a commitment to developing pest management solutions that are effective across conventional, organic, and naturalized cropping systems — reducing reliance on broad-spectrum pesticides while preserving agroecosystem function and grower profitability.
+The second priority targets vine mealybug (*Planococcus ficus*) management in commercial wine grape systems, with an emphasis on optimizing insecticide programs optimized for California's Central Coast and the Central Valley. This includes comparative evaluation of foliar versus drip-applied chemistries, application timing and intervals, and emerging mating disruption solutions within integrated management frameworks.
 
----
-
-## Academic Background
-
-I received my **Ph.D. in Entomology** (2024) from the **University of Florida**, Gainesville, where my dissertation — conducted under the supervision of Dr. Oscar Liburd — provided a comprehensive ecological evaluation of *D. suzukii* population dynamics and management across conventional, organic, and natural land management systems, with direct implications for IPM decision-making frameworks. Prior to that, I completed my **M.S. in Entomology** (2019) at the University of Florida under Dr. Dan Hahn, examining the association between lipid energy stores and diapause genotype in European corn borer (*Ostrinia nubilalis*). I hold a **B.S. in Biological Sciences** (2010) from the **University of Maryland, College Park**.
-
-During my graduate training, I also served as a **Student Trainee in the USDA-ARS Pathways Internship Program** (2016–2019), gaining extensive experience in applied agricultural research, field experimental design, and interagency scientific collaboration.
+I am driven by a commitment to scalable, biologically relevant pest management strategies where chemistry is used responsibly and in concert with biological rational management solutions to sustain agroecosystem function and long-term grower profitability.
 
 ---
 
@@ -41,18 +35,6 @@ During my graduate training, I also served as a **Student Trainee in the USDA-AR
 - Cover crop ecology and its interactions with pest and beneficial arthropod communities
 - Parasitoid–host interactions and biological control agent host-range assessment
 - Insect diapause physiology and lipid metabolism
-
----
-
-## Selected Funding & Recognition
-
-My research has been supported by the **University of Florida Provost Steinmetz Endowment** ($115,941; 2020–2024) and the **USDA-ARS Pathways Internship Program** ($83,625; 2016–2019). I am a **2026–2027 Science Policy Fellow** with the Entomological Society of America, a position that supports engagement with the federal legislative process on issues pertaining to agricultural research, pest management policy, and food security. I have also received competitive travel and research awards from the Entomological Society of America's Southeastern Branch and the University of Florida.
-
----
-
-## Science Communication & Mentorship
-
-I maintain an active commitment to scientific outreach, undergraduate mentorship, and diversity in STEM. I have directly mentored **sixteen undergraduate students** — eleven in conservation education and five in laboratory research — across projects spanning parasitoid bioassay design, analytical chemistry, and molecular techniques. I have served as a panelist and speaker at numerous career development and diversity-focused events, and I co-created and led the **Make it Count Peer Mentoring Program** at the University of Florida. I also served as Vice President of the **Pride Community Center of North Central Florida** from 2020 to 2023.
 
 ---
 
