@@ -48,7 +48,7 @@ Thesis: <em>The Association between Lipid Stores and Diapause Genotype among Eur
 <strong>B.S., Biological Sciences</strong> — University of Maryland, College Park, MD <span class="cv-date">(2010)</span>
 </div>
 
----
+<hr>
 
 ## Academic Appointments
 
@@ -62,7 +62,7 @@ University of California, Berkeley — UCANR Kearney Research & Extension Center
 Natural Area Teaching Lab, University of Florida, Gainesville, FL
 </div>
 
----
+<hr>
 
 ## Grants and Fellowships
 
@@ -98,7 +98,7 @@ $83,625
 <strong>Entomology and Nematology Travel Scholarship</strong> (Linval Maragh) <span class="cv-date">(2023)</span> — $900
 </div>
 
----
+<hr>
 
 ## Publications
 
@@ -162,7 +162,7 @@ Brown, J.T., Wong, C.N., Liburd, O.E. (in prep). Attraction of <em>Drosophila su
 Brown, J.T., Beck, J., Meagher, R.L., Hahn, D.A. (in prep). The role of photoperiod and diapause genotype in <em>Ostrinia nubilalis</em> (Lepidoptera: Crambidae) lipid accumulation and depletion.
 </div>
 
----
+<hr>
 
 ## Talks
 
@@ -226,7 +226,7 @@ Brown, J.T. (2021). "I'm here and I'm queer: at the intersection of being an ope
 Brown, J.T., Meagher, R.L., Beck, J., and Hahn, D.A. (2018). "The relationship between diapause preparation and diapause length: a possible target for European corn borer management." <em>American Chemical Society Conference, AGRO Division</em>, Boston, MA. [Invited]
 </div>
 
----
+<hr>
 
 ## Teaching
 
@@ -234,7 +234,7 @@ Brown, J.T., Meagher, R.L., Beck, J., and Hahn, D.A. (2018). "The relationship b
   {% include archive-single-cv.html %}
 {% endfor %}</ul>
 
----
+<hr>
 
 ## Mentoring
 
@@ -261,7 +261,7 @@ Erin Lapasaran (2018–2019) · Jeremiah Martinez (2018) · Maggie Anderson (201
 Trained in aseptic fruit microbe removal, DNA extraction, quantification, PCR preparation, and parasitoid rearing.<br>
 Joseph Gonsiorek (2023) · Esnai Munthali (2023) · Arden Lambert (2023)
 
----
+<hr>
 
 ## Service and Affiliations
 
