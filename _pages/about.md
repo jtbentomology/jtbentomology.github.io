@@ -6,7 +6,7 @@
 # index.md at the repository root, which redirects here. Do NOT add
 # permalink: / or redirect_from: /about/ to this file — that creates a loop.
 # =============================================================================
-permalink: /about.md
+permalink: /
 title: "James T. Brown, PhD"
 excerpt: "Agricultural Entomologist | Postdoctoral Research Scholar | UC Berkeley / UCANR Kearney REC"
 author_profile: true
@@ -60,7 +60,7 @@ I maintain an active commitment to scientific outreach, undergraduate mentorship
 
 I welcome inquiries from prospective collaborators, growers, extension professionals, and students interested in pest management, biological control, or agroecology.
 
-**Email:** [jamestbrown5@berkeley.edu](mailto:jamestbrown5@berkeley.edu)  
-**Location:** UCANR Kearney Research & Extension Center, Parlier, CA 93648  
-**Google Scholar:** [View publication record](https://scholar.google.com/citations?user=PS_CX0AAAAAJ)  
-**ORCID:** [0000-0003-3195-6761](https://orcid.org/0000-0003-3195-6761)
+**Email:** [jamestbrown5@berkeley.edu](mailto:jamestbrown5@berkeley.edu)<br>  
+**Location:** [UCANR Kearney Research & Extension Center, Parlier, CA 93648](https://share.google/xb5EL8FcWOM7OKR5T)<br>
+**Google Scholar:** [View publication record](https://scholar.google.com/citations?user=PS_CX0AAAAAJ)<br>
+**ORCID:** [0000-0003-3195-6761](https://orcid.org/0000-0003-3195-6761)<br>
