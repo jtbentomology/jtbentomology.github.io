@@ -121,7 +121,7 @@ social:
 # Analytics (add your Google Analytics tracking ID here when ready)
 # -----------------------------------------------------------------------------
 analytics:
-  provider               : "google"
+  provider               : "google-analytics-4"
   google:
     tracking_id          : "G-ZYRVQD52X8"
 
